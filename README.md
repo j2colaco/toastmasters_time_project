@@ -186,7 +186,7 @@ The list consists of re-ordering  some of the agenda timings/roles and setting e
 - Advise Table Topics Master to summarize list of participating members 1-2 minutes before 7:15pm (current end-time of section) instead of asking one more guest to participate.
 - Use the clap down technique (initiated by the timer) to “force” speakers off the stage. Members can opt in to this component.
 
-## 8.0 List of Improvements Implemented
+## 8.0 List of Improvements
 
 | Solution | Ease of Implementation (1-5) | Permanence of Solution (1-5) | Impact of Solution on Time (1-5) | Score |
 | --- | --- | --- | --- | --- |
